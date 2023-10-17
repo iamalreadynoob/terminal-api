@@ -1,0 +1,3 @@
+bubble-loc=test/bubble
+init-commands=open,close,kill,help,exec,list
+list-commands=at,which,ends,starts
